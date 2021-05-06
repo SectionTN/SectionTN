@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rayenmark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="rayenmark" height="30" width="40" /></a>
-<a href="https://fb.com/rayenmark.1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="rayenmark.1920" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mark droid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="mark droid" height="30" width="40" /></a>
+<a href="https://twitter.com/rayenmark1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="rayenmark1" height="30" width="40" /></a>
+<a href="https://fb.com/rayenmark.1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="Rayen Mark" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8L4k-Bk0nbRklWVzgFjo2A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="Mark Droid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
