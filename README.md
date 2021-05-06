@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alucardtn&label=Profile%20views&color=0e75b6&style=flat" alt="alucardtn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rayenmark" target="blank"><img src="https://img.shields.io/twitter/follow/rayenmark?logo=twitter&style=for-the-badge" alt="rayenmark" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rayenmark1" target="blank"><img src="https://img.shields.io/twitter/follow/rayenmark?logo=twitter&style=for-the-badge" alt="rayenmark1" /></a> </p>
 
 - 🔭 I’m currently working on [Moon Meet](https://github.com/AlucardTn/MoonMeet)
 
