@@ -20,12 +20,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 - Java
+
 - Kotlin
+ 
 - React-Native
+
 - JavaScript
-- Firebase 
+
+- Firebase
+ 
 - Linux Arch
+
 - Bash
+
 - Python 3
 </p>
 
