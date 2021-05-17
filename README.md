@@ -7,7 +7,7 @@
 
 -  I’m currently learning **React Native**
 
--  I'm currently modding **Sketchware-Pro**
+-  I'm currently modding **Some Apps**
 
 -  I’m looking for help with [Moon Meet](https://github.com/AlucardTn/MoonMeet)
 
