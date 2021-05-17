@@ -15,7 +15,7 @@
 
 -  Ask me about **Java, Kotlin, Python , Modding**
 
--  How to reach me **rayensbai2@gmail.com**
+-  you to reach with my email : **rayensbai2@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -35,4 +35,10 @@
 -  Bash
 
 -  Python 3
+
+-  CSS
+
+-  HTML
+
+-  React-JS
 </p>
