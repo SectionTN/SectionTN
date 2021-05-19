@@ -15,7 +15,7 @@
 
 -  Ask me about **Java, Kotlin, Python , Modding**
 
--  you to reach with my email : **rayensbai2@gmail.com**
+-  you can reach me with my email : **rayensbai2@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
