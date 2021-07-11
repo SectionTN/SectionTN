@@ -1,4 +1,4 @@
-# Hi there, I'm **Rayen Sbai**
+## Hi there, I'm **Rayen Sbai**
 Always learning **React Native**, and a strong **Java** Developer  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CortexTN&label=Profile%20views&color=0e75b6&style=flat" alt="CortexTN" /> </p>
@@ -43,12 +43,6 @@ Always learning **React Native**, and a strong **Java** Developer
 
 ## **Stats**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CortexTN&show_icons=true&locale=en&layout=compact" alt="CortexTN" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CortexTN&show_icons=true&locale=en" alt="CortexTN" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CortexTN&" alt="CortexTN" /></p>
-
 <div align="center" style="text-align:center">
     <a href="#">
         <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=CortexTN&show_icons=true&theme=monokai&count_private=true"
@@ -66,3 +60,30 @@ Always learning **React Native**, and a strong **Java** Developer
 
 ---
 
+## **How to reach me**
+
+<div align="center" style="text-align:center">
+    <a href="mailto:rayensbai2@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="CortexTN's Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/rayen-sbai-525b31216/">
+        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
+            alt="CortexTN's StackOverflow">
+    </a>
+    <a href="https://wakatime.com/@CortexTN/">
+        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
+            alt="CortexTN's Wakatime">
+    </a>
+    <a href="https://www.linkedin.com/in/rayen-sbai-525b31216/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="CortexTN's LinkedIn">
+    </a>
+    <a href="https://discord.gg/mzGepKfE5q">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+            alt="CortexTN's Discord">
+    </a>
+   
+</div>
+
+---
