@@ -45,15 +45,15 @@ Always learning **React Native** and a strong **Java** Developer
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=CortexTN&show_icons=true&theme=monokai&count_private=true"
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=CortexTN&show_icons=true&theme=react&count_private=true"
             alt="CortexTN's Github stats">
     </a>
     <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=CortexTN&theme=monokai"
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=CortexTN&theme=react"
             alt="CortexTN's Github commit streak">
     </a>
-    <a href="https://wakatime.com/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=CortexTN&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+    <a href="https://wakatime.com/@CortexTN/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=CortexTN"
             alt="CortexTN's wakatime last year stats">
     </a>
 </div>
