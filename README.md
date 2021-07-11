@@ -1,5 +1,5 @@
 ## Hi there, I'm **Rayen Sbai**
-Always learning **React Native**, and a strong **Java** Developer  
+Always learning **React Native** and a strong **Java** Developer  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CortexTN&label=Profile%20views&color=0e75b6&style=flat" alt="CortexTN" /> </p>
 
@@ -67,12 +67,12 @@ Always learning **React Native**, and a strong **Java** Developer
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="CortexTN's Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/rayen-sbai-525b31216/">
+    <a href="https://stackoverflow.com/users/15789420/mark-droid">
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
             alt="CortexTN's StackOverflow">
     </a>
     <a href="https://wakatime.com/@CortexTN/">
-        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
+        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@CortexTN&color=green"
             alt="CortexTN's Wakatime">
     </a>
     <a href="https://www.linkedin.com/in/rayen-sbai-525b31216/">
