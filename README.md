@@ -53,7 +53,7 @@ Always learning **React Native** and a strong **Java** Developer
             alt="CortexTN's Github commit streak">
     </a>
     <a href="https://wakatime.com/@CortexTN/">
-        <img width="70%" src="https://wakatime.com/share/@CortexTN/b6575c8c-4436-4703-988a-bfaf37341d3d.svg"
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=CortexTN&layout=compact"
             alt="CortexTN's Wakatime stats">
     </a>
 </div>
