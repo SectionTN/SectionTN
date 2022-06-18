@@ -1,7 +1,7 @@
 ## Hi there, I'm **Rayen Sbai**
 Always learning **React Native** and a strong **Java** Developer  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CortexTN&label=Profile%20views&color=0e75b6&style=flat" alt="CortexTN" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SectionTN&label=Profile%20views&color=0e75b6&style="flat" alt="SectionTN" /> </p>
 
 -  I’m currently working on [Moon Meet](https://github.com/MoonMeet/)
 
@@ -9,7 +9,7 @@ Always learning **React Native** and a strong **Java** Developer
 
 -  I'm no longer modding **Apps**
 
--  All of my projects are available at [https://github.com/CortexTN](https://github.com/CortexTN)
+-  All of my projects are available at [https://github.com/SectionTN](https://github.com/CortexTN)
 
 -  Ask me about **Java, Kotlin, Python, React Native, JS, CSS**
 
