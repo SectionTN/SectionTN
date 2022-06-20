@@ -17,44 +17,34 @@ Always learning **React Native** and a strong **Java** Developer
 <p align="left"> 
 
 -  Java
-
--  Kotlin
  
 -  React-Native
 
 -  JavaScript
 
 -  Firebase
- 
--  Linux Arch
-
--  Bash
 
 -  Python 3
 
 -  CSS
 
 -  HTML
-
--  React-JS
-
--  PHP
 </p>
 
 ## **Stats**
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=CortexTN&show_icons=true&theme=react&count_private=true"
-            alt="CortexTN's Github stats">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=SectionTN&show_icons=true&theme=react&count_private=false"
+            alt="SectionTN's Github stats">
     </a>
     <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=CortexTN&theme=react"
-            alt="CortexTN's Github commit streak">
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=SectionTN&theme=react"
+            alt="Section's Github commit streak">
     </a>
     <a href="https://wakatime.com/@CortexTN/">
         <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=CortexTN&layout=compact&theme=react"
-            alt="CortexTN's Wakatime stats">
+            alt="Section's Wakatime stats">
     </a>
 </div>
 
