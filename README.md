@@ -39,7 +39,7 @@ Always learning **React Native** and a strong **Java** Developer
             alt="SectionTN's Github stats">
     </a>
     <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=CortexTN&theme=react"
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=SectionTN&theme=react"
             alt="Section's Github commit streak">
     </a>
     <a href="https://wakatime.com/@CortexTN/">
