@@ -47,28 +47,5 @@ Always learning **React Native** and a strong **Java** Developer
 ---
 
 ## **How to reach me**
-
-<div align="center" style="text-align:center">
-    <a href="mailto:rayensbai2@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="SectionTN's Gmail">
-    </a>
-    <a href="https://stackoverflow.com/users/15789420/mark-droid">
-        <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
-            alt="SectionTN's StackOverflow">
-    </a>
-    <a href="https://wakatime.com/@CortexTN/">
-        <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@CortexTN&color=green"
-            alt="SectionTN's Wakatime">
-    </a>
-    <a href="https://www.linkedin.com/in/rayen-sbai-525b31216/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="SectionTN's LinkedIn">
-    </a>
-    <a href="https://discord.gg/hZRmxqQbSX">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-            alt="SectionTN's Discord">
-    </a>
-</div>
-
+Email only: rayensbai2@gmail.com
 ---
