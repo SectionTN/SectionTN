@@ -43,6 +43,8 @@ Always learning **React Native** and a strong **Java** Developer
             alt="Section's Wakatime stats">
     </a>
 </div>
+ 
+ [![](https://github.com/SectionTN/SectionTN/blob/master/dino.gif)](https://chromedino.com)
 
 ---
 
