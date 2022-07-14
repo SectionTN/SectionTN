@@ -45,9 +45,14 @@ Always learning **React Native** and a strong **Java** Developer
 </div>
  
  <div align="center">
-  [![](https://github.com/SectionTN/SectionTN/blob/main/dino.gif)](https://chromedino.com)
+ 
+ 
+ [![](https://github.com/SectionTN/SectionTN/blob/main/dino.gif)](https://chromedino.com)
+ 
+ 
  </div>
-
+ 
+ 
 ---
 
 ## **How to reach me**
