@@ -44,7 +44,7 @@ Always learning **React Native** and a strong **Java** Developer
     </a>
 </div>
  
- [![](https://github.com/SectionTN/SectionTN/blob/master/dino.gif)](https://chromedino.com)
+ [![](https://github.com/SectionTN/SectionTN/blob/main/dino.gif)](https://chromedino.com)
 
 ---
 
