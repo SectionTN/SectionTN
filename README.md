@@ -16,8 +16,3 @@
             alt="Section's Github commit streak">
     </a>
 </div>
-
----
-
-## **How to reach me**
-Email only: rayensbai2@gmail.com
