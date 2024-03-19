@@ -24,3 +24,6 @@ jobs:
           SHOW_PROJECTS: true
           SHOW_EDITORS: true
           SHOW_LANGUAGE_PER_REPO: true
+          SHOW_TIMEZONE: false
+          SHOW_LOC_CHART: false
+          COMMIT_MESSAGE: "Hello gentelmen, I am updating my wakatime stats"
