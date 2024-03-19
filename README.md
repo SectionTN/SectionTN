@@ -116,8 +116,8 @@ TypeScript               1 repo              ██░░░░░░░░░�
 <!--END_SECTION:SECTIONTN-->
 
 <h3 style="text-align: left;">My Projects:</h3>
-🔸 **Moon Meet**: Moon Meet is an open source platform that gives you good access to connect with friends, make relationships and share stories. [link](https://github.com/MoonMeet/MoonMeet-CrossPlatform)<br>
-🔸 **OTP Input**: An elegant and highly customizable One-Time Password (OTP) input library designed to simplify the implementation and enhance the user experience of OTP authentication flows in React Native Applications. [link](https://github.com/SectionTN/otp-input)<br>
+- **Moon Meet**: Moon Meet is an open source platform that gives you good access to connect with friends, make relationships and share stories. [link](https://github.com/MoonMeet/MoonMeet-CrossPlatform)<br>
+- **OTP Input**: An elegant and highly customizable One-Time Password (OTP) input library designed to simplify the implementation and enhance the user experience of OTP authentication flows in React Native Applications. [link](https://github.com/SectionTN/otp-input)<br>
 
 
 <h3 style="text-align: left;">Contribution:</h3>
