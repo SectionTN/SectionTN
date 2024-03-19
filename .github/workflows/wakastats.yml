@@ -27,3 +27,4 @@ jobs:
           SHOW_TIMEZONE: false
           SHOW_LOC_CHART: false
           COMMIT_MESSAGE: "Hello gentelmen, I am updating my wakatime stats."
+          SHOW_UPDATED_DATE: false
