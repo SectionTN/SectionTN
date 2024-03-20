@@ -23,11 +23,6 @@
 
 <h3 align="left">Stats:</h3>
 
-<div style="text-align:left;">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sectiontn&show_icons=true&theme=dark&locale=en" alt="sectiontn" /> </p>
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sectiontn&theme=dark" alt="sectiontn" /> </p>
-</div>
-
 <!--START_SECTION:SECTIONTN-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2013%20mins-blue)
 
@@ -107,6 +102,10 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:SECTIONTN-->
+
+<div style="text-align:left;">
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sectiontn&theme=dark" alt="sectiontn" /> </p>
+</div>
 
 <h3 style="text-align: left;">Contribution:</h3>
 I'm always open for collaboration and love PRs! You can contribute to any of my projects.
