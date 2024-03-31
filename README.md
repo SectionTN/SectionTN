@@ -24,7 +24,7 @@
 <h3 align="left">Stats:</h3>
 
 <!--START_SECTION:SECTIONTN-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
@@ -65,20 +65,16 @@ Sunday                   182 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     57 mins             █████████████░░░░░░░░░░░░   53.39 % 
-TypeScript               46 mins             ███████████░░░░░░░░░░░░░░   43.73 % 
-yarn.lock                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Webstorm                 1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-otp-input                1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
