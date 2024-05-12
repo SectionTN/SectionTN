@@ -24,15 +24,17 @@
 <h3 align="left">Stats:</h3>
 
 <!--START_SECTION:SECTIONTN-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 485.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 127 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -65,16 +67,20 @@ Sunday                   186 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 43 mins        █████████████████████████   100.00 % 
+Python                   1 hr 39 mins        █████████████████░░░░░░░░   66.40 % 
+Other                    50 mins             ████████░░░░░░░░░░░░░░░░░   33.60 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 43 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 39 mins        █████████████████░░░░░░░░   66.40 % 
+Chrome                   48 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
+Discord                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🐱‍💻 Projects: 
-sirPy                    1 hr 43 mins        █████████████████████████   100.00 % 
+sirPy                    2 hrs 28 mins       █████████████████████████   98.95 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
