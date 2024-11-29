@@ -24,7 +24,7 @@
 <h3 align="left">Stats:</h3>
 
 <!--START_SECTION:SECTIONTN-->
-![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,6 +33,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 579.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 430 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
