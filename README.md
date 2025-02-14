@@ -37,8 +37,6 @@
 
 > 📦 579.3 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 44 Public Repositories 
@@ -70,20 +68,16 @@ Sunday                   252 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     18 mins             ██████████░░░░░░░░░░░░░░░   40.15 % 
-TypeScript               17 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
-Git Config               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Groovy                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AlgorithmeTN             29 mins             ████████████████░░░░░░░░░   63.47 % 
-AlgoTN-Website           16 mins             █████████░░░░░░░░░░░░░░░░   36.53 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
