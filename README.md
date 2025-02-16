@@ -27,7 +27,7 @@
 <h3 align="left">Stats:</h3>
 
 <!--START_SECTION:SECTIONTN-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,16 +68,16 @@ Sunday                   252 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AlgorithmeTN             9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
