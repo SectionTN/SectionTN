@@ -27,7 +27,7 @@
 <h3 align="left">Stats:</h3>
 
 <!--START_SECTION:SECTIONTN-->
-![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
