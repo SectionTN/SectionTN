@@ -102,10 +102,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:SECTIONTN-->
-
-<div style="text-align:left;">
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sectiontn&theme=dark" alt="sectiontn" /> </p>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SectionTN&theme=dark&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 
 <h3 style="text-align: left;">Contribution:</h3>
 I'm always open for collaboration and love PRs! You can contribute to any of my projects.
