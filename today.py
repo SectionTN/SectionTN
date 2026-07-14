@@ -429,8 +429,6 @@ def formatter(query_type, difference, funct_return=False, whitespace=0):
 if __name__ == '__main__':
     """
     Rayen Sbai (SectionTN)
-    Adapted from Andrew Grant (Andrew6rant), 2022-2025
-    https://github.com/Andrew6rant/Andrew6rant
     """
     print('Calculation times:')
     # define global variable for owner ID and calculate user's creation date
