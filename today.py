@@ -214,11 +214,21 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
     }'''
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     request = simple_request(loc_query.__name__, query, variables)
-    if request.json()['data']['user']['repositories']['pageInfo']['hasNextPage']:   # If repository data has another page
-        edges += request.json()['data']['user']['repositories']['edges']            # Add on to the LoC count
-        return loc_query(owner_affiliation, comment_size, force_cache, request.json()['data']['user']['repositories']['pageInfo']['endCursor'], edges)
+    page = request.json()['data']['user']['repositories']
+    if page['pageInfo']['hasNextPage']:                  # If repository data has another page
+        edges += drop_unreadable(page['edges'])          # Add on to the LoC count
+        return loc_query(owner_affiliation, comment_size, force_cache, page['pageInfo']['endCursor'], edges)
     else:
-        return cache_builder(edges + request.json()['data']['user']['repositories']['edges'], comment_size, force_cache)
+        return cache_builder(edges + drop_unreadable(page['edges']), comment_size, force_cache)
+
+
+def drop_unreadable(edges):
+    """
+    Removes repositories the token cannot resolve.
+    GitHub returns those as a null node instead of leaving them out of the connection,
+    which happens when ACCESS_TOKEN is unset and the workflow falls back to github.token.
+    """
+    return [edge for edge in edges if edge['node'] is not None]
 
 
 def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
@@ -300,7 +310,7 @@ def stars_counter(data):
     Count total stars in repositories owned by me
     """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for node in drop_unreadable(data): total_stars += node['node']['stargazers']['totalCount']
     return total_stars
 
 
