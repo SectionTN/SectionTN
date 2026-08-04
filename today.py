@@ -225,10 +225,16 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
 def drop_unreadable(edges):
     """
     Removes repositories the token cannot resolve.
-    GitHub returns those as a null node instead of leaving them out of the connection,
-    which happens when ACCESS_TOKEN is unset and the workflow falls back to github.token.
+    GitHub returns those as a null node inside the connection instead of leaving them
+    out, so counting them crashes. This happens when ACCESS_TOKEN is missing, or when it
+    is a fine-grained token that was not granted access to every repository.
+    Says how many were skipped, otherwise an under-scoped token silently undercounts.
     """
-    return [edge for edge in edges if edge['node'] is not None]
+    readable = [edge for edge in edges if edge['node'] is not None]
+    skipped = len(edges) - len(readable)
+    if skipped:
+        print('   skipped', skipped, 'of', len(edges), 'repos the token cannot read', flush=True)
+    return readable
 
 
 def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
