@@ -13,9 +13,20 @@ Sketchware wasn't maintained by its developers back then, reverse engineering it
 
 i shared the method with the Sketchware Pro modders. their maintainer took my work and put it under his package name while i wasn't active modding, that's why i stopped releasing mods publicly. i was the brain behind their solution for .aar libraries and the progress they've made. when i talked about it they even blocked me from the repo, poor guys.
 
+modding tools from 2021:
+
+- [Updatify](https://github.com/SectionTN/Updatify): a modded Updatify, from source 4.4
+- [ApkSigner](https://github.com/SectionTN/ApkSigner): a copy of PseudoApkSigner that signs apps without a private key file or template file
+- [Xml2Axml](https://github.com/SectionTN/Xml2Axml): a converter between binary XML and readable XML
+- [ApkSignatureKill](https://github.com/SectionTN/ApkSignatureKill): the signature kill by MTBin, used in MT Manager
+- [OoO-Proguard](https://github.com/SectionTN/OoO-Proguard): the OoO Proguard used in NP Manager
+- [Manifest-Merger](https://github.com/SectionTN/Manifest-Merger): the manifest merger from AIDE
+
 in 2021 i switched to React Native and rebuilt [Moon Meet](https://github.com/MoonMeet/MoonMeet-CrossPlatform) in bare React Native, it's on the Play Store.
 
 [otp-input](https://github.com/SectionTN/otp-input), an OTP input library for React Native, came out in 2024 before the baccalauréat. after the bac i made [Mentrick](https://play.google.com/store/apps/details?id=org.sectiontn.mindreader), a mind games app first called PlayScope.
+
+school projects, mostly pure algorithmics: [BinaryConverter](https://github.com/SectionTN/BinaryConverter), [JourneeDesCadeaux](https://github.com/SectionTN/JourneeDesCadeaux), [Bac-2023-Pratique](https://github.com/SectionTN/Bac-2023-Pratique), [conv-ipv4-ipv6](https://github.com/SectionTN/conv-ipv4-ipv6), [GestionBanque](https://github.com/SectionTN/GestionBanque), [TriageDesMots](https://github.com/SectionTN/TriageDesMots), [VilleDistance](https://github.com/SectionTN/VilleDistance), [ApproximationDat](https://github.com/SectionTN/ApproximationDat), [Renseignements-Eleves](https://github.com/SectionTN/Renseignements-Eleves) and [GestionnaireStockMagasin](https://github.com/SectionTN/GestionnaireStockMagasin).
 
 i study at ISET Sidi Bouzid. i'm on macOS now, with Xcode and Swift next to Android Studio.
 
