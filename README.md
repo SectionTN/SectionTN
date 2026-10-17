@@ -11,8 +11,6 @@ i learned HTML, CSS and JavaScript around 2017, no laptop then, i built Android 
 
 Sketchware wasn't maintained by its developers back then, reverse engineering it was the only solution so i could add .aab support, new signing and more. i worked out that if you load an app's own classes as a jar in Android Studio, a decompiled Java file resolves its imports and compiles. from there you can turn it back into smali and put it in the APK.
 
-i shared the method with the Sketchware Pro modders. their maintainer took my work and put it under his package name while i wasn't active modding, that's why i stopped releasing mods publicly. i was the brain behind their solution for .aar libraries and the progress they've made. when i talked about it they even blocked me from the repo.
-
 modding tools from 2021:
 
 - [Updatify](https://github.com/SectionTN/Updatify): a modded Updatify, from source 4.4
